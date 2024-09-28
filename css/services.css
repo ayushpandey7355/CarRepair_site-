@@ -1,0 +1,23 @@
+.services_bg_container{
+    background: linear-gradient(rgba(0, 0, 0, .8),rgba(0, 0, 0, .8)),url(../img/bg.jpeg);
+    width: 100%;
+    padding: 4rem 0;
+    flex-direction: column;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.services_bg_container p{
+    color: #fff;
+}
+.services_bg_header{
+    font-size: 5rem;
+    font-weight: 700;
+    padding-bottom: 1rem;
+}
+.services_bg_container .services_bg_pera{
+    font-weight: 600;
+    word-spacing: 5px;
+}
